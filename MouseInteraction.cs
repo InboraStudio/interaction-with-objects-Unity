@@ -85,7 +85,7 @@ public class MouseInteraction : MonoBehaviour {
 	private string currentText = "" ; // The text to apply on the GUI changes
 	private GUIStyle tooltipStyle = new GUIStyle() ; // The style to apply on the GUI 
 	private GUIStyle tooltipStyleShadow = new GUIStyle() ; // The shadow style to apply on the GUI changes
-	private Vector3 positionToScreen ; // Used to calcul the position of the tooltip
+	private Vector3 positionToScreen ; // Used to calcul the position of the tooltip on main system 
 	private float cameraDistance ; // The distance of the camera (used to calcul the position of the tooltip)
 	private bool lookedByCam = false ; // The object is actually looked by the cam ?
 	private Animation animationComponent ; // Animation component of the object
