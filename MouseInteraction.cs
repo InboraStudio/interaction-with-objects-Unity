@@ -95,7 +95,7 @@ public class MouseInteraction : MonoBehaviour {
 	private static GameObject objectInteracted ; // Object actually interacted (used for "Hold the mouse" and Touch/Click interaction)
 	private static GameObject objectInOver ; // Object actually in over with the mouse/center (used for "Hold the mouse" and Touch/Click interaction)
 
-	// ===== HINTS =====
+	// ===== NOTE =====
 	// Don't forget to attach a collider component to the object which must be interacted.
 	// For the center of screen interaction, don't forget to attach the CameraRaycast script to your main active camera.
 
