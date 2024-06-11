@@ -10,3 +10,4 @@ Next Put (MouseInteraction) script in your any object
 for more info and help viset our website or instagram 
 https://inborastudio.wixsite.com/inborastudio
 instagram @inbora.studio
+Email; Studio.inbora@gamil.com
