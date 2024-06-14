@@ -1,6 +1,6 @@
 ﻿//Inbora studio (clam all copyrights)2020-22 All scripts are code by Inbora Studio.
 //Devloped By Alok Khokhar for more information follow as on instagram @inbora.studio or ower webside. 
-//https://inborastudio.wixsite.com/inborastudio
+//https://inborastudio.wixsite.com/inborastudio/
 
 using UnityEngine;
 using UnityEngine.Events;
