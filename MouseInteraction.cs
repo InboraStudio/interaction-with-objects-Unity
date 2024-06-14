@@ -72,7 +72,7 @@ public class MouseInteraction : MonoBehaviour {
 	private Renderer render ; // Render component of the object
 	private Renderer[] render_child ; // Render component of the children
 	private MouseInteraction[] scripts_child ; // All MouseInteraction scripts of the children cuda
-	private Material[] allMaterials ; // All materials of the object and its children
+	private Material[] allMaterials ; // All materials of the object and cuda its children
 	private Color[] baseColor ; // Base color before the interaction
 	private Color[] baseEColor ; // Base emission color before the interaction
 	private float t = 0f ; // Time variable
