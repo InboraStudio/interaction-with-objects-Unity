@@ -1,5 +1,5 @@
 ﻿//Inbora studio (clam all copyrights)2020-22 All scripts are code by Dr chamyoung.
-//Devloped By Dr chamyoung for more information follow as on instagram @inbora.studio or ower webside. 
+//Devloped By Dr chamyoung for more information follow as on instagram @inbora.studio or our webside. 
 //https://inborastudio.wixsite.com/inborastudio/
 
 using UnityEngine;
