@@ -14,7 +14,7 @@ public class MouseInteraction : MonoBehaviour {
 	[Tooltip("Fade speed of the color change (slow -> quick)")]
 		public float interactionSpeed = 4f ;
 	[Tooltip("Emission intensity (doesn't work with material which has no emissive intensity)")]
-		[Range(0f, 1f)]public float emissionIntensity = 0f ;
+		[Range(0f, 1f)]public float emissionIntensity = 0.2f ;
 	[Tooltip("Use the center of the screen instead the mouse position to detect the interaction.")]
 		public bool useCenterScreen = false ;
 	[Tooltip("Use the touch/click instead the mouse position to detect the interaction.")]
